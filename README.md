@@ -64,5 +64,5 @@ Github: https://github.com/Purplepenguin67/pop-social
 
 
 
-**Server:** Node, Express.js API, MySQL
+**Server:** Node, Express.js API, MySQL, .env
 
