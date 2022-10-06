@@ -48,9 +48,10 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Deployment
 
 
-Video: 
+Video: https://drive.google.com/file/d/1tICZuXIU7ZwKCIlT7qmPBAv-Plk80UZp/view
 
-Github: https://github.com/Purplepenguin67/pop-social
+
+Github: https://github.com/Purplepenguin67/e-commerce-back-end
 
 
 
@@ -64,5 +65,5 @@ Github: https://github.com/Purplepenguin67/pop-social
 
 
 
-**Server:** Node, Express.js API, MySQL, .env
+**Server:** Node, Sequelize MySQL, .env
 
